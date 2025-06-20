@@ -1,0 +1,10 @@
+artifact_location: file:///D:/UdemyFinal/Network_security/mlruns/0/models/m-14e41d21f46f446bacb516e58de02d1f/artifacts
+creation_timestamp: 1750398097810
+experiment_id: '0'
+last_updated_timestamp: 1750398104262
+model_id: m-14e41d21f46f446bacb516e58de02d1f
+model_type: null
+name: model
+source_run_id: 1e684d3ff3dc47b080e3a6dad1299d87
+status: 2
+status_message: null

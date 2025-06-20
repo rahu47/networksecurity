@@ -4,6 +4,7 @@ numpy
 certifi
 pymongo
 pyaml
+mlflowgit a
 dill
 
 ##-e .
