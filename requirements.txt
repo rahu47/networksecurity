@@ -4,7 +4,9 @@ numpy
 certifi
 pymongo
 pyaml
-mlflowgit a
+mlflow
 dill
+fastapi
+uvicorn
 
 ##-e .
